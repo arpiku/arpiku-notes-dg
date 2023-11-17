@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/code/the-cpp-notes/"}
----
-
-Here 
-are some asdf
-new edits
