@@ -4,4 +4,4 @@
 
 
 
-here are some python notes.
+here are some python notes, these are also good
