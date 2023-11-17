@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-asdfasdf asf sf asdf asdf asdfasd fasfasdf sadfasdfasdf asdf asdfasd:This is my home page, and I made this editP
+asdfasdf asf sf asdf asdf asdfasd fasdfjasfasdf sadfasdfasdf asdf asdfasd:This is my home page, and Iasdf made this editP
 
 [[code/TheCppNotes\|TheCppNotes]]                 a
 
@@ -14,4 +14,4 @@ import pandas
 [[code/ThePythonNotes\|ThePythonNotes]]
 
 #important
-#fileTest
+#fileTestsdf
