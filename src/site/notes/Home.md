@@ -2,5 +2,4 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-
-This is my home:[]()
+This is my home Page!!.
